@@ -86,7 +86,7 @@ iframe{
 
 /* HOME----------------------------------------*/
 #home{
-    background-image: url(../images/main-bg.jpg), linear-gradient(#c9ffbf, #ffafbd);
+    background-image: url(https://github.com/Nana-124/wcbcafe.test/blob/main/main-bg.jpg?raw=true), linear-gradient(#c9ffbf, #ffafbd);
     min-height: 100vh;
 }
 #home .page-title{
